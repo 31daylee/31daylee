@@ -38,4 +38,13 @@ With a keen interest in both front-end and back-end development, I enjoy solving
   <img height=210 align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=31daylee&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
 </div>
 
+
+
+<hr/>
+
+ 
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F31daylee&count_bg=%23B5EA8C&title_bg=%23D7DAC3&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
+<hr/>
+
+
