@@ -12,7 +12,7 @@ I'm a passionate full stack developer eager to build scalable web applications u
 With a keen interest in both front-end and back-end development, I enjoy solving complex problems and creating seamless user experiences.
 
 - 👩‍💻 Full-Stack Developer
-- 💬 Korean(Native), English(Intermediate), Spainsh(Beginner)
+- 💬 Korean(Native), English(Intermediate), Spanish(Beginner)
 - 🌴 1 year of e-commerce management experience in California, USA.
 - 📚 A bachelor's degree in English Interpretation and Translation & Spanish (4.32/4.5 GPA)
 - 🐶🐱 Animal Lover: Dogs & Cats
