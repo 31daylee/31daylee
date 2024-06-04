@@ -42,7 +42,9 @@ With a keen interest in both front-end and back-end development, I enjoy solving
 <br/>
 <hr/>
 <div>
+  
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F31daylee&count_bg=%23B5EA8C&title_bg=%23D7DAC3&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 </div>
 <hr/>
 
