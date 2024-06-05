@@ -18,7 +18,7 @@ With a keen interest in both front-end and back-end development, I enjoy solving
 - 📚 A bachelor's degree in English Interpretation and Translation & Spanish (4.32/4.5 GPA)
 - 🐶🐱 Animal Lover: Dogs & Cats
 
-### Main Tools
+### Main Skills
 <div width="100%">
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
