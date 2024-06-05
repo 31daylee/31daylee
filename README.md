@@ -1,12 +1,13 @@
 ## 🗓 31daylee
+
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/31daylee"
+    src="https://render.gitanimals.org/lines/31daylee?pet-id=585138454101576352"
     width="700"
     height="100"
   />
 </a>
-
+  
 Welcome to my GitHub!  💖 </br>
 I'm a passionate full stack developer eager to build scalable web applications using modern technologies. 
 With a keen interest in both front-end and back-end development, I enjoy solving complex problems and creating seamless user experiences.
